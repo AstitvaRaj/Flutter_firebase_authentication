@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431945427587",
+    "firebase_url": "https://siht-d3da2.firebaseio.com",
+    "project_id": "siht-d3da2",
+    "storage_bucket": "siht-d3da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431945427587:android:0c5013d9c695cdf0b349b6",
+        "android_client_info": {
+          "package_name": "com.mltry.ins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431945427587-8att9revd4h38ptf4cvm3rts2kq60f90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mltry.ins",
+            "certificate_hash": "a2ee1ad8d4c9706c88fdfcc9fb8d399e0a8385d8"
+          }
+        },
+        {
+          "client_id": "431945427587-d0ua66p5eqnjauqoug4kn1vhfhmld6nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQTrFOJodW4K270XLGjjyuafFX4hFB_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431945427587-d0ua66p5eqnjauqoug4kn1vhfhmld6nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
